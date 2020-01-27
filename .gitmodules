@@ -1,0 +1,10 @@
+[submodule "digikey-kicad-library"]
+	url = https://github.com/Ddoiron-cidco/digikey-kicad-library
+[submodule "digikey-partner-kicad-library"]
+	url = https://github.com/Ddoiron-cidco/digikey-partner-kicad-library
+[submodule "kicad-footprints"]
+	url = https://github.com/Ddoiron-cidco/kicad-footprints
+[submodule "kicad-packages3D-source"]
+	url = https://github.com/Ddoiron-cidco/kicad-packages3D-source
+[submodule "kicad-symbols"]
+	url = https://github.com/Ddoiron-cidco/kicad-symbols
