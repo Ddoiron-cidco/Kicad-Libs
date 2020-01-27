@@ -1,0 +1,18 @@
+.APXW005A0X3-SRZ :1 ;GE CRITICAL POWER - APXW005A0X3-SRZ - DC TO DC CONVERT, 3V TO 18V, 5A TO 2.5A
+APXW005A0X3SRZ
+*STM U
+*NGS
+*PLB 1="ON/OFF" 2="VIN" 3="GND" 4="TRIM" 5="VOUT" 6="VS+"
+*MXP 6
+*DFN APXW005A0X3-SRZ
+~!Manufacturer_Name (GE Critical Power)
+~!Manufacturer_Part_Number (APXW005A0X3-SRZ)
+~!Mouser Part Number (894-APXW005A0X3-SRZ)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=894-APXW005A0X3-SRZ)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/APXW005A0X3-SRZ.pdf)
+~!Height (8mm)
+~!3D_Model (APXW005A0X3-SRZ)
+APXW005A0X3-SRZ
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

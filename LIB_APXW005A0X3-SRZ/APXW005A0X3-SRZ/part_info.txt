@@ -1,0 +1,9 @@
+Manufacturer=GE Critical Power
+PartNumber=APXW005A0X3-SRZ
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2018-02-15 17:26:28
+Downloaded=2020-01-27 16:51:48
+3D=Y

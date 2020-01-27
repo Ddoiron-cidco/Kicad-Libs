@@ -1,0 +1,9 @@
+Manufacturer=CUI
+PartNumber=PDQE20-Q24-S5-D
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2019-08-01 22:13:51
+Downloaded=2020-01-27 16:55:42
+3D=Y
