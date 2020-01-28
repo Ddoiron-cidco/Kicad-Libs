@@ -8,5 +8,3 @@
 	url = https://github.com/Ddoiron-cidco/kicad-packages3D-source
 [submodule "kicad-symbols"]
 	url = https://github.com/Ddoiron-cidco/kicad-symbols
-[submodule "SparkFun-KiCad-Libraries"]
-	url = https://github.com/Ddoiron-cidco/SparkFun-KiCad-Libraries.git
