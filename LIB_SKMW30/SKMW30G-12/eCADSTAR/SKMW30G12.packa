@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SKMW30G-12"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-22-13:32:46)
+    (mountForm default
+        (footprintRef "SKMW30G12")
+        (spec "System")
+    )
+)

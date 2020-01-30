@@ -1,0 +1,20 @@
+.SKMW30G-12 :1 ;Isolated Module DC DC Converter 1 Output 12V 2.5A 18V - 75V Input
+SKMW30G12
+*STM PS
+*NGS
+*PLB 1="+VIN" 2="-VIN" 3="+VOUT" 4="TRIM" 5="-VOUT" 6="R.C."
+*MXP 6
+*DFN SKMW30G-12
+~!Manufacturer_Name (Mean Well)
+~!Manufacturer_Part_Number (SKMW30G-12)
+~!Mouser Part Number (709-SKMW30G-12)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=709-SKMW30G-12)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Allied_Number (71028299)
+~!Link Allied Price/Stock (https://www.alliedelec.com/meanwellusa-skmw30g-12/71028299/)
+~!Link Datasheet (https://media.digikey.com/pdf/Data%20Sheets/Mean%20Well%20PDF)
+~!Height (10.2mm)
+~!3D_Model (SKMW30G-12)
+SKMW30G-12
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SKMW30G_12'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "ALLIED_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mean Well", "SKMW30G-12" (!) = "", "SKMW30G12", "Other", "709-SKMW30G-12", "https://www.mouser.com/Search/Refine.aspx?Keyword=709-SKMW30G-12", "", "", "71028299", "https://www.alliedelec.com/meanwellusa-skmw30g-12/71028299/", "Isolated Module DC DC Converter 1 Output 12V 2.5A 18V - 75V Input", "https://media.digikey.com/pdf/Data%20Sheets/Mean%20Well%20PDF", "10.2 mm"
+END_PART
+
+END.

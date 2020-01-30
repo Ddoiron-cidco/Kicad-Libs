@@ -1,0 +1,9 @@
+Manufacturer=Mean Well
+PartNumber=SKMW30G-12
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=6
+Version=1.1
+Released=2019-03-22 00:54:46
+Downloaded=2020-01-29 20:18:37
+3D=Y

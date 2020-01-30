@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKMW30G-12
+D Isolated Module DC DC Converter 1 Output 12V 2.5A 18V - 75V Input
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Mean%20Well%20PDF
+$ENDCMP
+#
+#End Doc Library
